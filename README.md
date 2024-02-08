@@ -21,4 +21,9 @@ git config --global user.email
 
 <br> 
 ~ symbol shows that Now we are inside our root directory or main directory or main folder
+<br> 
+Generally we have credential helper in git which stores our credentials, credentials means our name, email etc. 
+<br> 
+For open VS code we will use code . command in terminal. 
+
 
