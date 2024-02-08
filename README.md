@@ -23,4 +23,6 @@ Generally we have credential helper in git which stores our credentials, credent
 <br> 
 For open VS code we will use code . command in terminal. 
 
+Clone & Status
+
 
